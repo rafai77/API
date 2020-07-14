@@ -1,0 +1,15 @@
+{
+"user":[
+{"id":1, "name":"Rafael", "username": "rafai77","email":"rafac11@hotmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg" },
+{"id":2, "name":"lala", "username": "lala77","email":"lala@hotmail.com","image":"https://i.ibb.co/ZH7356D/cody.jpg" }
+],
+  "posts": [
+    { "id": 1, "title": "Post 1","body":"pos body","userId":1 },
+    { "id": 2, "title": "Post 2","body":"pos body","userId":2 },
+    { "id": 3, "title": "Post 3","body":"pos body","userId":1 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
